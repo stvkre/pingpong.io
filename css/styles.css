@@ -1,0 +1,12 @@
+.jumbotron {
+  text-align: center;
+  color: black;
+  font-size: 35px;
+  background-image: url('../img/numbers-game-big.jpg');
+  background-repeat: space;
+  background-color: grey;
+}
+
+.play {
+  margin: 100px;
+}
