@@ -10,3 +10,7 @@
 .play {
   margin: 100px;
 }
+
+div#results {
+  display: none;
+}
